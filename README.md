@@ -8,6 +8,6 @@
 ## Credits
 
 Thank you to Quizlet user yuqian_chen7 for posting these WNRS inspired questions.
-Question Set 1 - https://quizlet.com/513944316/were-not-really-strangers-1-flash-cards/
-Question Set 2 - https://quizlet.com/513944329/were-not-really-strangers-2-flash-cards/
-Question Set 3 - https://quizlet.com/513944329/were-not-really-strangers-2-flash-cards/
+- Question Set 1 - https://quizlet.com/513944316/were-not-really-strangers-1-flash-cards/
+- Question Set 2 - https://quizlet.com/513944329/were-not-really-strangers-2-flash-cards/
+- Question Set 3 - https://quizlet.com/513944329/were-not-really-strangers-2-flash-cards/
